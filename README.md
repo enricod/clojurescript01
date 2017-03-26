@@ -1,7 +1,10 @@
+A small application to study reagent and clojurescript
 
-# avviare server
+To start the server:
+
 lein ring run
 
 
-# avvia componente web
+to start the clojurescript compilation:
+
 lein figwheel
